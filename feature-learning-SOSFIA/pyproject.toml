@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fxf-sosfia"
+version = "1.0.0"
+description = "Feature-by-feature learning of k-ISL transductions with SOSFIA"
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "pandas>=1.5"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

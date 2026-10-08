@@ -1,0 +1,18 @@
+Feature	t	d	n	ʂ	a	ɔ	u	<	>
+voice	-	+	+	-	+	+	+	 	 
+son	-	-	+	-	+	+	+	 	 
+cons	+	+	+	+	-	-	-	 	 
+cont	-	-	-	+	+	+	+	 	 
+cor	+	+	+	+	0	0	0	 	 
+ant	+	+	+	-	0	0	0	 	 
+dor	-	-	-	-	0	0	0	 	 
+lab	-	-	-	-	0	0	0	 	 
+distr	-	-	-	-	0	0	0	 	 
+delrel	-	-	0	+	0	0	0	 	 
+nasal	-	-	+	-	-	-	-	 	 
+lat	-	-	-	-	0	0	0	 	 
+high	0	0	0	0	-	-	+	 	 
+back	0	0	0	0	+	+	+	 	 
+low	0	0	0	0	+	-	-	 	 
+tense	0	0	0	0	-	-	+	 	 
+round	0	0	0	0	-	+	+	 	 

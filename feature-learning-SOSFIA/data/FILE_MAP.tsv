@@ -1,0 +1,24 @@
+repository_path	public_filename	provenance
+english/inventory_input.tsv	English_features_26_9_sigma.tsv	Byte-identical to the public repository file.
+english/inventory_output.tsv	English_features_26_9_delta.tsv	Byte-identical to the public repository file.
+english/pairs_features.tsv	English_gen_pairs_26_9_feat.tsv	Byte-identical to the public repository file.
+english/pairs_segments.tsv	English_gen_pairs_26_9_seg.tsv	Byte-identical to the public repository file.
+yawelmani/inventory.tsv	Yawelmani_features_7_sigma_delta.tsv	Byte-identical to the public repository file.
+yawelmani/pairs_features.tsv	Yawel_gen_pairs_7_feat_updated.tsv	Byte-identical to the public repository file.
+yawelmani/pairs_segments.tsv	Yawel_gen_pairs_7_seg_updated.tsv	Byte-identical to the public repository file.
+chukchi/inventory_input.tsv	Chukchi_features_7_sigma.tsv	Corrected inventory matching the public pair data; the public inventory uses t and s where the pairs use β and t͡ʃ.
+chukchi/inventory_output.tsv	Chukchi_features_7_delta.tsv	Corrected inventory matching the public pair data; the public inventory uses t and s where the pairs use β and t͡ʃ.
+chukchi/pairs_features.tsv	Chukchi_gen_pairs_7_feat.tsv	Byte-identical to the public repository file.
+chukchi/pairs_segments.tsv	Chukchi_gen_pairs_7_seg.tsv	Byte-identical to the public repository file.
+polish/inventory_7.tsv	Polish_features_7_sigma_delta.tsv	Byte-identical to the public repository file.
+polish/inventory_8.tsv		Reconstructed from the segment and feature pair tables; absent from the public repository.
+polish/inventory_9.tsv		Reconstructed from the segment and feature pair tables; absent from the public repository.
+polish/inventory_10.tsv		Reconstructed from the segment and feature pair tables; absent from the public repository.
+polish/pairs_features_7.tsv	Polish_gen_pairs_7_feat.tsv	Byte-identical to the public repository file.
+polish/pairs_segments_7.tsv	Polish_gen_pairs_7_seg.tsv	Byte-identical to the public repository file.
+polish/pairs_features_8.tsv	Polish_gen_pairs_8_feat.tsv	Byte-identical to the public repository file.
+polish/pairs_segments_8.tsv	Polish_gen_pairs_8_seg.tsv	Byte-identical to the public repository file.
+polish/pairs_features_9.tsv	Polish_gen_pairs_9_feat.tsv	Byte-identical to the public repository file.
+polish/pairs_segments_9.tsv	Polish_gen_pairs_9_seg.tsv	Byte-identical to the public repository file.
+polish/pairs_features_10.tsv	Polish_gen_pairs_10_feat.tsv	Byte-identical to the public repository file.
+polish/pairs_segments_10.tsv	Polish_gen_pairs_10_seg.tsv	Byte-identical to the public repository file.

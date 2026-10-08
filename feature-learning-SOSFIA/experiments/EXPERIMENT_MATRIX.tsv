@@ -1,0 +1,33 @@
+condition_id	language	representation	alphabet_size	direction	k_mode	k_value	repetitions	optional_verification_seeds	dissertation_reference	driver_status
+english-segment-fixed-l2r	english	segments	26	L2R	fixed	2	10	1-10	Table 3.6	missing
+yawelmani-segment-fixed-l2r	yawelmani	segments	7	L2R	fixed	3	10	1-10	Table 3.8	missing
+chukchi-segment-fixed-l2r	chukchi	segments	7	L2R	fixed	3	10	1-10	Table 3.10	missing
+polish7-segment-fixed-l2r	polish	segments	7	L2R	fixed	3	10	1-10	Table 3.12	missing
+english-fxf-fixed-l2r	english	features	26	L2R	fixed	2	10	1-10	Appendix B.1 and B.7	missing
+english-fxf-fixed-r2l	english	features	26	R2L	fixed	2	10	1-10	Appendix B.2 and B.8	missing
+english-fxf-learned-l2r	english	features	26	L2R	learned		10	1-10	Appendix B.3 and B.5	missing
+english-fxf-learned-r2l	english	features	26	R2L	learned		10	1-10	Appendix B.4 and B.6	missing
+yawelmani-fxf-fixed-l2r	yawelmani	features	7	L2R	fixed	3	10	1-10	Appendix B.13 and B.19	missing
+yawelmani-fxf-fixed-r2l	yawelmani	features	7	R2L	fixed	3	10	1-10	Appendix B.14 and B.20	missing
+yawelmani-fxf-learned-l2r	yawelmani	features	7	L2R	learned		10	1-10	Appendix B.15 and B.17	missing
+yawelmani-fxf-learned-r2l	yawelmani	features	7	R2L	learned		10	1-10	Appendix B.16 and B.18	missing
+chukchi-fxf-fixed-l2r	chukchi	features	7	L2R	fixed	3	10	1-10	Appendix B.25 and B.31	missing
+chukchi-fxf-fixed-r2l	chukchi	features	7	R2L	fixed	3	10	1-10	Appendix B.26 and B.32	missing
+chukchi-fxf-learned-l2r	chukchi	features	7	L2R	learned		10	1-10	Appendix B.27 and B.29	missing
+chukchi-fxf-learned-r2l	chukchi	features	7	R2L	learned		10	1-10	Appendix B.28 and B.30	missing
+polish7-fxf-fixed-l2r	polish	features	7	L2R	fixed	3	10	1-10	Appendix B.37 and B.43	missing
+polish7-fxf-fixed-r2l	polish	features	7	R2L	fixed	3	10	1-10	Appendix B.38 and B.44	missing
+polish7-fxf-learned-l2r	polish	features	7	L2R	learned		10	1-10	Appendix B.39 and B.41	missing
+polish7-fxf-learned-r2l	polish	features	7	R2L	learned		10	1-10	Appendix B.40 and B.42	missing
+polish8-fxf-fixed-l2r	polish	features	8	L2R	fixed	3	1	1	Appendix B.45	missing
+polish8-fxf-fixed-r2l	polish	features	8	R2L	fixed	3	1	1	Appendix B.46	missing
+polish8-fxf-learned-l2r	polish	features	8	L2R	learned		1	1	Appendix B.47	missing
+polish8-fxf-learned-r2l	polish	features	8	R2L	learned		1	1	Appendix B.48	missing
+polish9-fxf-fixed-l2r	polish	features	9	L2R	fixed	3	1	1	Appendix B.45	missing
+polish9-fxf-fixed-r2l	polish	features	9	R2L	fixed	3	1	1	Appendix B.46	missing
+polish9-fxf-learned-l2r	polish	features	9	L2R	learned		1	1	Appendix B.47	missing
+polish9-fxf-learned-r2l	polish	features	9	R2L	learned		1	1	Appendix B.48	missing
+polish10-fxf-fixed-l2r	polish	features	10	L2R	fixed	3	1	1	Appendix B.45	missing
+polish10-fxf-fixed-r2l	polish	features	10	R2L	fixed	3	1	1	Appendix B.46	missing
+polish10-fxf-learned-l2r	polish	features	10	L2R	learned		1	1	Appendix B.47	missing
+polish10-fxf-learned-r2l	polish	features	10	R2L	learned		1	1	Appendix B.48	missing

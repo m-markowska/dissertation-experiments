@@ -1,0 +1,2 @@
+# Boundary cells in the historical TSV inventories intentionally contain spaces.
+*.tsv -whitespace

@@ -1,0 +1,341 @@
+table_id	dissertation_page	language	direction	k_mode	k_value	alphabet_size	feature_set	source_runs_table_id	sample_size	mean_selected_size	sd	validation_note
+B.5	248	english	left-to-right	learned		26	nasal+cons	B.3	39	32	4.3	
+B.5	248	english	left-to-right	learned		26	high	B.3	39	3	0	reported mean differs from B.3 calculated mean 2
+B.5	248	english	left-to-right	learned		26	low	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	tense	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	front	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	back	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	round	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	long	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	cons	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	son	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	cont	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	delrel	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	approx	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	voice	B.3	14	2	0	
+B.5	248	english	left-to-right	learned		26	lab	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	labdent	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	cor	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	ant	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	distr	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	strid	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	lat	B.3	39	3	0	
+B.5	248	english	left-to-right	learned		26	dor	B.3	39	3	0	
+B.6	249	english	right-to-left	learned		26	nasal+cons	B.4	39	32	3.89	
+B.6	249	english	right-to-left	learned		26	high	B.4	39	3	0	reported mean differs from B.4 calculated mean 2
+B.6	249	english	right-to-left	learned		26	low	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	tense	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	front	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	back	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	round	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	long	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	cons	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	son	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	cont	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	delrel	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	approx	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	voice	B.4	14	2	0	
+B.6	249	english	right-to-left	learned		26	lab	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	labdent	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	cor	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	ant	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	distr	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	strid	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	lat	B.4	39	3	0	
+B.6	249	english	right-to-left	learned		26	dor	B.4	39	3	0	
+B.7	250	english	left-to-right	fixed	2	26	nasal+cons	B.1	39	31	3.89	
+B.7	250	english	left-to-right	fixed	2	26	high	B.1	39	24	4.52	
+B.7	250	english	left-to-right	fixed	2	26	low	B.1	39	23	7.51	
+B.7	250	english	left-to-right	fixed	2	26	tense	B.1	39	25	9.42	
+B.7	250	english	left-to-right	fixed	2	26	front	B.1	39	20	8.09	
+B.7	250	english	left-to-right	fixed	2	26	back	B.1	39	24	5.65	
+B.7	250	english	left-to-right	fixed	2	26	round	B.1	14	14	0.67	reported mean differs from B.1 calculated mean 8.4; reported SD differs from B.1 calculated SD 2.27058
+B.7	250	english	left-to-right	fixed	2	26	long	B.1	14	8	1.79	
+B.7	250	english	left-to-right	fixed	2	26	cons	B.1	14	9	2.02	
+B.7	250	english	left-to-right	fixed	2	26	son	B.1	14	10	1.66	
+B.7	250	english	left-to-right	fixed	2	26	cont	B.1	14	9	3.47	reported SD differs from B.1 calculated SD 3.25918
+B.7	250	english	left-to-right	fixed	2	26	delrel	B.1	39	25	4.99	
+B.7	250	english	left-to-right	fixed	2	26	approx	B.1	39	26	9.29	
+B.7	250	english	left-to-right	fixed	2	26	voice	B.1	14	9	2.66	
+B.7	250	english	left-to-right	fixed	2	26	lab	B.1	39	24	4.72	
+B.7	250	english	left-to-right	fixed	2	26	labdent	B.1	39	26	4.72	reported SD differs from B.1 calculated SD 6.81828
+B.7	250	english	left-to-right	fixed	2	26	cor	B.1	39	23	4.76	
+B.7	250	english	left-to-right	fixed	2	26	ant	B.1	39	24	5.80	
+B.7	250	english	left-to-right	fixed	2	26	distr	B.1	39	26	3.92	
+B.7	250	english	left-to-right	fixed	2	26	strid	B.1	39	24	8.50	reported mean differs from B.1 calculated mean 24.6
+B.7	250	english	left-to-right	fixed	2	26	lat	B.1	39	28	4.06	
+B.7	250	english	left-to-right	fixed	2	26	dor	B.1	39	25	5.38	
+B.8	251	english	right-to-left	fixed	2	26	nasal+cons	B.2	39	29	10.10	
+B.8	251	english	right-to-left	fixed	2	26	high	B.2	39	19	8.78	
+B.8	251	english	right-to-left	fixed	2	26	low	B.2	39	12	10.94	
+B.8	251	english	right-to-left	fixed	2	26	tense	B.2	39	13	11.85	
+B.8	251	english	right-to-left	fixed	2	26	front	B.2	39	21	11.20	
+B.8	251	english	right-to-left	fixed	2	26	back	B.2	39	17	12.01	
+B.8	251	english	right-to-left	fixed	2	26	round	B.2	14	7	3.57	
+B.8	251	english	right-to-left	fixed	2	26	long	B.2	14	7	4.16	
+B.8	251	english	right-to-left	fixed	2	26	cons	B.2	14	5	2.13	
+B.8	251	english	right-to-left	fixed	2	26	son	B.2	14	9	4.06	
+B.8	251	english	right-to-left	fixed	2	26	cont	B.2	14	7	4.30	
+B.8	251	english	right-to-left	fixed	2	26	delrel	B.2	39	25	4.99	reported mean differs from B.2 calculated mean 21.8; reported SD differs from B.2 calculated SD 11.5451
+B.8	251	english	right-to-left	fixed	2	26	approx	B.2	39	22	11.55	reported mean differs from B.2 calculated mean 16.4; reported SD differs from B.2 calculated SD 13.3683
+B.8	251	english	right-to-left	fixed	2	26	voice	B.2	14	8	3.92	
+B.8	251	english	right-to-left	fixed	2	26	lab	B.2	39	16	10.77	
+B.8	251	english	right-to-left	fixed	2	26	labdent	B.2	39	25	10.96	reported mean differs from B.2 calculated mean 14.6
+B.8	251	english	right-to-left	fixed	2	26	cor	B.2	39	16	11.17	
+B.8	251	english	right-to-left	fixed	2	26	ant	B.2	39	16	12.40	
+B.8	251	english	right-to-left	fixed	2	26	distr	B.2	39	22	10.49	
+B.8	251	english	right-to-left	fixed	2	26	strid	B.2	39	17	10.70	
+B.8	251	english	right-to-left	fixed	2	26	lat	B.2	39	18	11.77	
+B.8	251	english	right-to-left	fixed	2	26	dor	B.2	39	17	11.73	
+B.17	260	yawelmani	left-to-right	learned		7	high	B.15	363	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	low	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	tense	B.15	363	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	front	B.15	363	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	back	B.15	363	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	round	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	long	B.15	363	251	63.26	
+B.17	260	yawelmani	left-to-right	learned		7	cons	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	son	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	cont	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	delrel	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	approx	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	nasal	B.15	54	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	voice	B.15	54	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	lab	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	labdent	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	cor	B.15	336	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	ant	B.15	309	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	distr	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	strid	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	lat	B.15	62	2	0	
+B.17	260	yawelmani	left-to-right	learned		7	dor	B.15	336	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	constrgl	B.15	336	3	0	
+B.17	260	yawelmani	left-to-right	learned		7	spreadgl	B.15	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	high	B.16	363	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	low	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	tense	B.16	363	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	front	B.16	363	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	back	B.16	363	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	round	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	long	B.16	363	155	21.02	
+B.18	261	yawelmani	right-to-left	learned		7	cons	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	son	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	cont	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	delrel	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	approx	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	nasal	B.16	54	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	voice	B.16	54	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	lab	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	labdent	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	cor	B.16	336	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	ant	B.16	309	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	distr	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	strid	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	lat	B.16	62	2	0	
+B.18	261	yawelmani	right-to-left	learned		7	dor	B.16	336	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	constrgl	B.16	336	3	0	
+B.18	261	yawelmani	right-to-left	learned		7	spreadgl	B.16	62	2	0	
+B.19	262	yawelmani	left-to-right	fixed	3	7	high	B.13	363	148	27.13	
+B.19	262	yawelmani	left-to-right	fixed	3	7	low	B.13	62	32	6.92	
+B.19	262	yawelmani	left-to-right	fixed	3	7	tense	B.13	363	159	32.15	
+B.19	262	yawelmani	left-to-right	fixed	3	7	front	B.13	363	146	30.43	
+B.19	262	yawelmani	left-to-right	fixed	3	7	back	B.13	363	167	23.66	
+B.19	262	yawelmani	left-to-right	fixed	3	7	round	B.13	62	30	7.39	
+B.19	262	yawelmani	left-to-right	fixed	3	7	long	B.13	363	317	2.63	reported SD differs from B.13 calculated SD 49.0239
+B.19	262	yawelmani	left-to-right	fixed	3	7	cons	B.13	62	36	49.02	reported SD differs from B.13 calculated SD 5.47317
+B.19	262	yawelmani	left-to-right	fixed	3	7	son	B.13	62	39	5.47	reported SD differs from B.13 calculated SD 7.77174
+B.19	262	yawelmani	left-to-right	fixed	3	7	cont	B.13	62	34	7.77	reported SD differs from B.13 calculated SD 6.18601
+B.19	262	yawelmani	left-to-right	fixed	3	7	delrel	B.13	62	34	6.19	reported SD differs from B.13 calculated SD 7.74955
+B.19	262	yawelmani	left-to-right	fixed	3	7	approx	B.13	62	33	7.75	reported mean differs from B.13 calculated mean 40.5; reported SD differs from B.13 calculated SD 6.63744
+B.19	262	yawelmani	left-to-right	fixed	3	7	nasal	B.13	54	41	6.68	reported mean differs from B.13 calculated mean 33.2; reported SD differs from B.13 calculated SD 7.67101
+B.19	262	yawelmani	left-to-right	fixed	3	7	voice	B.13	54	33	10.11	
+B.19	262	yawelmani	left-to-right	fixed	3	7	lab	B.13	62	35	4.17	
+B.19	262	yawelmani	left-to-right	fixed	3	7	labdent	B.13	62	33	4.51	
+B.19	262	yawelmani	left-to-right	fixed	3	7	cor	B.13	336	139	24.05	
+B.19	262	yawelmani	left-to-right	fixed	3	7	ant	B.13	309	136	19.28	
+B.19	262	yawelmani	left-to-right	fixed	3	7	distr	B.13	62	32	8.09	
+B.19	262	yawelmani	left-to-right	fixed	3	7	strid	B.13	62	30	6.75	
+B.19	262	yawelmani	left-to-right	fixed	3	7	lat	B.13	62	31	4.92	
+B.19	262	yawelmani	left-to-right	fixed	3	7	dor	B.13	336	169	17.89	
+B.19	262	yawelmani	left-to-right	fixed	3	7	constrgl	B.13	336	157	32.91	reported mean differs from B.13 calculated mean 158.6
+B.19	262	yawelmani	left-to-right	fixed	3	7	spreadgl	B.13	62	35	7.51	
+B.20	263	yawelmani	right-to-left	fixed	3	7	high	B.14	363	147	23.42	
+B.20	263	yawelmani	right-to-left	fixed	3	7	low	B.14	62	30	12.33	
+B.20	263	yawelmani	right-to-left	fixed	3	7	tense	B.14	363	162	26.05	
+B.20	263	yawelmani	right-to-left	fixed	3	7	front	B.14	363	143	27.83	
+B.20	263	yawelmani	right-to-left	fixed	3	7	back	B.14	363	151	28.02	
+B.20	263	yawelmani	right-to-left	fixed	3	7	round	B.14	62	35	7.21	
+B.20	263	yawelmani	right-to-left	fixed	3	7	long	B.14	363	167	17.58	reported mean differs from B.14 calculated mean 168.6
+B.20	263	yawelmani	right-to-left	fixed	3	7	cons	B.14	62	30	11.52	
+B.20	263	yawelmani	right-to-left	fixed	3	7	son	B.14	62	33	4.04	
+B.20	263	yawelmani	right-to-left	fixed	3	7	cont	B.14	62	35	13.01	
+B.20	263	yawelmani	right-to-left	fixed	3	7	delrel	B.14	62	39	7.06	
+B.20	263	yawelmani	right-to-left	fixed	3	7	approx	B.14	62	31	7.55	
+B.20	263	yawelmani	right-to-left	fixed	3	7	nasal	B.14	54	33	13.13	
+B.20	263	yawelmani	right-to-left	fixed	3	7	voice	B.14	54	32	5.21	
+B.20	263	yawelmani	right-to-left	fixed	3	7	lab	B.14	62	29	14.29	
+B.20	263	yawelmani	right-to-left	fixed	3	7	labdent	B.14	62	32	7.24	
+B.20	263	yawelmani	right-to-left	fixed	3	7	cor	B.14	336	174	46.11	
+B.20	263	yawelmani	right-to-left	fixed	3	7	ant	B.14	309	195	74.54	
+B.20	263	yawelmani	right-to-left	fixed	3	7	distr	B.14	62	33	12.39	
+B.20	263	yawelmani	right-to-left	fixed	3	7	strid	B.14	62	28	10.23	
+B.20	263	yawelmani	right-to-left	fixed	3	7	lat	B.14	62	22	11.15	
+B.20	263	yawelmani	right-to-left	fixed	3	7	dor	B.14	336	193	51.02	
+B.20	263	yawelmani	right-to-left	fixed	3	7	constrgl	B.14	336	158	67.51	
+B.20	263	yawelmani	right-to-left	fixed	3	7	spreadgl	B.14	62	29	15.19	
+B.29	272	chukchi	left-to-right	learned		7	high	B.27	309	165	24.44	
+B.29	272	chukchi	left-to-right	learned		7	low	B.27	62	33	5.27	
+B.29	272	chukchi	left-to-right	learned		7	tense	B.27	62	35	6.40	
+B.29	272	chukchi	left-to-right	learned		7	front	B.27	309	146	25.05	
+B.29	272	chukchi	left-to-right	learned		7	back	B.27	309	154	32.67	reported SD differs from B.27 calculated SD 32.7619
+B.29	272	chukchi	left-to-right	learned		7	round+high	B.27	309	225	38.34	
+B.29	272	chukchi	left-to-right	learned		7	long	B.27	62	37	6.56	
+B.29	272	chukchi	left-to-right	learned		7	cons	B.27	62	35	4.58	
+B.29	272	chukchi	left-to-right	learned		7	son+low	B.27	336	280	5.53	reported SD differs from B.27 calculated SD 5.43241
+B.29	272	chukchi	left-to-right	learned		7	cont+tense	B.27	363	300	14.02	
+B.29	272	chukchi	left-to-right	learned		7	delrel+long	B.27	1236	956	103.37	
+B.29	272	chukchi	left-to-right	learned		7	approx	B.27	62	35	6.00	
+B.29	272	chukchi	left-to-right	learned		7	nasal+son	B.27	336	297	28.00	
+B.29	272	chukchi	left-to-right	learned		7	voice+cons	B.27	363	305	13.69	
+B.29	272	chukchi	left-to-right	learned		7	lab	B.27	363	302	20.73	
+B.29	272	chukchi	left-to-right	learned		7	labdent	B.27	62	35	5.21	
+B.29	272	chukchi	left-to-right	learned		7	cor	B.27	363	296	19.21	
+B.29	272	chukchi	left-to-right	learned		7	ant+labdent	B.27	1236	946	102.07	
+B.29	272	chukchi	left-to-right	learned		7	distr+cor	B.27	1236	813	162.52	
+B.29	272	chukchi	left-to-right	learned		7	strid+dor	B.27	1236	957	103.34	
+B.29	272	chukchi	left-to-right	learned		7	lat	B.27	336	262	22.78	
+B.29	272	chukchi	left-to-right	learned		7	dor	B.27	62	33	2.80	
+B.30	273	chukchi	right-to-left	learned		7	high	B.28	309	173	37.57	
+B.30	273	chukchi	right-to-left	learned		7	low	B.28	62	37	5.50	
+B.30	273	chukchi	right-to-left	learned		7	tense	B.28	62	43	4.33	
+B.30	273	chukchi	right-to-left	learned		7	front	B.28	309	193	31.49	
+B.30	273	chukchi	right-to-left	learned		7	back	B.28	309	196	44.26	
+B.30	273	chukchi	right-to-left	learned		7	round+high	B.28	309	216	39.18	
+B.30	273	chukchi	right-to-left	learned		7	long	B.28	62	38	2.80	
+B.30	273	chukchi	right-to-left	learned		7	cons	B.28	62	39	6.51	
+B.30	273	chukchi	right-to-left	learned		7	son+low	B.28	336	236	45.12	
+B.30	273	chukchi	right-to-left	learned		7	cont+tense	B.28	363	226	29.76	
+B.30	273	chukchi	right-to-left	learned		7	delrel+long	B.28	1236	1039	85.14	
+B.30	273	chukchi	right-to-left	learned		7	approx	B.28	62	39	7.48	
+B.30	273	chukchi	right-to-left	learned		7	nasal+son	B.28	336	234	49.30	
+B.30	273	chukchi	right-to-left	learned		7	voice+cons	B.28	363	242	47.40	
+B.30	273	chukchi	right-to-left	learned		7	lab	B.28	363	151	34.33	
+B.30	273	chukchi	right-to-left	learned		7	labdent	B.28	62	41	6.14	
+B.30	273	chukchi	right-to-left	learned		7	cor	B.28	363	160	31.24	
+B.30	273	chukchi	right-to-left	learned		7	ant+labdent	B.28	1236	1009	99.13	
+B.30	273	chukchi	right-to-left	learned		7	distr+cor	B.28	1236	946	71.19	
+B.30	273	chukchi	right-to-left	learned		7	strid+dor	B.28	1236	991	90.65	
+B.30	273	chukchi	right-to-left	learned		7	lat	B.28	336	187	54.55	
+B.30	273	chukchi	right-to-left	learned		7	dor	B.28	62	41	5.38	
+B.31	274	chukchi	left-to-right	fixed	3	7	high	B.25	309	165	30.34	
+B.31	274	chukchi	left-to-right	fixed	3	7	low	B.25	62	38	5.45	
+B.31	274	chukchi	left-to-right	fixed	3	7	tense	B.25	62	32	5.69	
+B.31	274	chukchi	left-to-right	fixed	3	7	front	B.25	309	166	31.76	
+B.31	274	chukchi	left-to-right	fixed	3	7	back	B.25	309	174	22.55	
+B.31	274	chukchi	left-to-right	fixed	3	7	round+high	B.25	309	225	30.28	
+B.31	274	chukchi	left-to-right	fixed	3	7	long	B.25	62	32	5.54	
+B.31	274	chukchi	left-to-right	fixed	3	7	cons	B.25	62	31	4.95	
+B.31	274	chukchi	left-to-right	fixed	3	7	son+low	B.25	336	260	12.77	reported SD differs from B.25 calculated SD 27.4744
+B.31	274	chukchi	left-to-right	fixed	3	7	cont+tense	B.25	363	306	18.02	
+B.31	274	chukchi	left-to-right	fixed	3	7	delrel+long	B.25	1236	924	57.82	
+B.31	274	chukchi	left-to-right	fixed	3	7	approx	B.25	62	34	6.24	
+B.31	274	chukchi	left-to-right	fixed	3	7	nasal+son	B.25	336	290	17.26	
+B.31	274	chukchi	left-to-right	fixed	3	7	voice+cons	B.25	363	305	21.22	
+B.31	274	chukchi	left-to-right	fixed	3	7	lab	B.25	363	313	8.88	
+B.31	274	chukchi	left-to-right	fixed	3	7	labdent	B.25	62	34	5.46	
+B.31	274	chukchi	left-to-right	fixed	3	7	cor	B.25	363	305	17.30	
+B.31	274	chukchi	left-to-right	fixed	3	7	ant+labdent	B.25	1236	922	61.73	
+B.31	274	chukchi	left-to-right	fixed	3	7	distr+cor	B.25	1236	801	14.98	
+B.31	274	chukchi	left-to-right	fixed	3	7	strid+dor	B.25	1236	955	58.46	
+B.31	274	chukchi	left-to-right	fixed	3	7	lat	B.25	336	274	12.90	
+B.31	274	chukchi	left-to-right	fixed	3	7	dor	B.25	62	32	4.55	
+B.32	275	chukchi	right-to-left	fixed	3	7	high	B.26	309	192	51.10	
+B.32	275	chukchi	right-to-left	fixed	3	7	low	B.26	62	39	6.90	
+B.32	275	chukchi	right-to-left	fixed	3	7	tense	B.26	62	36	9.56	
+B.32	275	chukchi	right-to-left	fixed	3	7	front	B.26	309	191	26.11	
+B.32	275	chukchi	right-to-left	fixed	3	7	back	B.26	309	175	45.65	
+B.32	275	chukchi	right-to-left	fixed	3	7	round+high	B.26	309	227	35.57	
+B.32	275	chukchi	right-to-left	fixed	3	7	long	B.26	62	40	3.63	
+B.32	275	chukchi	right-to-left	fixed	3	7	cons	B.26	62	39	3.27	
+B.32	275	chukchi	right-to-left	fixed	3	7	son+low	B.26	336	244	19.54	reported SD differs from B.26 calculated SD 42.8662
+B.32	275	chukchi	right-to-left	fixed	3	7	cont+tense	B.26	363	219	31.15	
+B.32	275	chukchi	right-to-left	fixed	3	7	delrel+long	B.26	1236	982	41.75	
+B.32	275	chukchi	right-to-left	fixed	3	7	approx	B.26	62	39	4.22	
+B.32	275	chukchi	right-to-left	fixed	3	7	nasal+son	B.26	336	232	41.67	
+B.32	275	chukchi	right-to-left	fixed	3	7	voice+cons	B.26	363	228	36.23	
+B.32	275	chukchi	right-to-left	fixed	3	7	lab	B.26	363	152	24.43	reported SD differs from B.26 calculated SD 24.5332
+B.32	275	chukchi	right-to-left	fixed	3	7	labdent	B.26	62	41	5.21	
+B.32	275	chukchi	right-to-left	fixed	3	7	cor	B.26	363	148	40.16	
+B.32	275	chukchi	right-to-left	fixed	3	7	ant+labdent	B.26	1236	993	92.98	
+B.32	275	chukchi	right-to-left	fixed	3	7	distr+cor	B.26	1236	917	55.02	
+B.32	275	chukchi	right-to-left	fixed	3	7	strid+dor	B.26	1236	964	46.30	
+B.32	275	chukchi	right-to-left	fixed	3	7	lat	B.26	336	175	41.02	
+B.32	275	chukchi	right-to-left	fixed	3	7	dor	B.26	62	42	5.72	
+B.41	284	polish	left-to-right	learned		7	voice+son	B.39	336	193	29.18	
+B.41	284	polish	left-to-right	learned		7	son	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	cons	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	cont	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	cor	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	ant	B.39	336	3	0	
+B.41	284	polish	left-to-right	learned		7	dor	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	lab	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	distr	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	delrel	B.39	336	3	0	
+B.41	284	polish	left-to-right	learned		7	nasal	B.39	54	2	0	
+B.41	284	polish	left-to-right	learned		7	lat	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	high+voice+son+low	B.39	8250	6984	1262.72	
+B.41	284	polish	left-to-right	learned		7	back	B.39	62	2	0	
+B.41	284	polish	left-to-right	learned		7	low	B.39	336	3	0	
+B.41	284	polish	left-to-right	learned		7	tense+voice+son+round	B.39	8250	7176	776.65	
+B.41	284	polish	left-to-right	learned		7	round	B.39	336	3	0	
+B.42	285	polish	right-to-left	learned		7	voice+son	B.40	336	101	38.13	
+B.42	285	polish	right-to-left	learned		7	son	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	cons	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	cont	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	cor	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	ant	B.40	336	3	0	
+B.42	285	polish	right-to-left	learned		7	dor	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	lab	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	distr	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	delrel	B.40	336	3	0	
+B.42	285	polish	right-to-left	learned		7	nasal	B.40	54	2	0	
+B.42	285	polish	right-to-left	learned		7	lat	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	high+voice+son+low	B.40	8250	7156	695.43	
+B.42	285	polish	right-to-left	learned		7	back	B.40	62	2	0	
+B.42	285	polish	right-to-left	learned		7	low	B.40	336	3	0	
+B.42	285	polish	right-to-left	learned		7	tense+voice+son+round	B.40	8250	7240	578.20	
+B.42	285	polish	right-to-left	learned		7	round	B.40	336	3	0	
+B.43	286	polish	left-to-right	fixed	3	7	voice+son	B.37	336	214	10.73	
+B.43	286	polish	left-to-right	fixed	3	7	son	B.37	62	27	12.77	
+B.43	286	polish	left-to-right	fixed	3	7	cons	B.37	62	28	14.37	
+B.43	286	polish	left-to-right	fixed	3	7	cont	B.37	62	26	7.70	
+B.43	286	polish	left-to-right	fixed	3	7	cor	B.37	62	35	6.34	
+B.43	286	polish	left-to-right	fixed	3	7	ant	B.37	336	157	17.27	
+B.43	286	polish	left-to-right	fixed	3	7	dor	B.37	62	32	4.33	
+B.43	286	polish	left-to-right	fixed	3	7	lab	B.37	62	25	14.26	
+B.43	286	polish	left-to-right	fixed	3	7	distr	B.37	62	32	12.28	reported SD differs from B.37 calculated SD 12.381
+B.43	286	polish	left-to-right	fixed	3	7	delrel	B.37	336	147	38.97	
+B.43	286	polish	left-to-right	fixed	3	7	nasal	B.37	54	29	14.92	
+B.43	286	polish	left-to-right	fixed	3	7	lat	B.37	62	31	15.93	
+B.43	286	polish	left-to-right	fixed	3	7	high+voice+son+low	B.37	8250	7119	907.70	
+B.43	286	polish	left-to-right	fixed	3	7	back	B.37	62	29	12.12	
+B.43	286	polish	left-to-right	fixed	3	7	low	B.37	336	153	60.16	
+B.43	286	polish	left-to-right	fixed	3	7	tense+voice+son+round	B.37	8250	7372	806.83	
+B.43	286	polish	left-to-right	fixed	3	7	round	B.37	336	137	51.76	
+B.44	287	polish	right-to-left	fixed	3	7	voice+son	B.38	336	233	85.93	
+B.44	287	polish	right-to-left	fixed	3	7	son	B.38	62	28	10.13	
+B.44	287	polish	right-to-left	fixed	3	7	cons	B.38	62	36	9.07	
+B.44	287	polish	right-to-left	fixed	3	7	cont	B.38	62	26	8.65	
+B.44	287	polish	right-to-left	fixed	3	7	cor	B.38	62	36	7.302	reported SD differs from B.38 calculated SD 7.02456
+B.44	287	polish	right-to-left	fixed	3	7	ant	B.38	336	164	45.08	
+B.44	287	polish	right-to-left	fixed	3	7	dor	B.38	62	31	11.15	
+B.44	287	polish	right-to-left	fixed	3	7	lab	B.38	62	34	12.97	
+B.44	287	polish	right-to-left	fixed	3	7	distr	B.38	62	29	9.92	
+B.44	287	polish	right-to-left	fixed	3	7	delrel	B.38	336	164	38.43	
+B.44	287	polish	right-to-left	fixed	3	7	nasal	B.38	54	28	10.19	
+B.44	287	polish	right-to-left	fixed	3	7	lat	B.38	62	30	12.89	
+B.44	287	polish	right-to-left	fixed	3	7	high+voice+son+low	B.38	8250	7360	630.27	
+B.44	287	polish	right-to-left	fixed	3	7	back	B.38	62	27	9.10	
+B.44	287	polish	right-to-left	fixed	3	7	low	B.38	336	170	33.90	
+B.44	287	polish	right-to-left	fixed	3	7	tense+voice+son+round	B.38	8250	7052	597.12	
+B.44	287	polish	right-to-left	fixed	3	7	round	B.38	336	173	45.04	

@@ -1,0 +1,217 @@
+table_id	dissertation_page	language	direction	k_mode	k_value	alphabet_size	feature_set	measure	full_sample_size	selected_sample_size
+B.45	288	polish	left-to-right	fixed	3	8	voice+son	M_phi	363	241
+B.45	288	polish	left-to-right	fixed	3	9	voice+son	M_phi	363	223
+B.45	288	polish	left-to-right	fixed	3	10	voice+son	M_phi	363	235
+B.45	288	polish	left-to-right	fixed	3	8	son	M_phi	62	32
+B.45	288	polish	left-to-right	fixed	3	9	son	M_phi	62	34
+B.45	288	polish	left-to-right	fixed	3	10	son	M_phi	62	23
+B.45	288	polish	left-to-right	fixed	3	8	cons	M_phi	62	38
+B.45	288	polish	left-to-right	fixed	3	9	cons	M_phi	62	41
+B.45	288	polish	left-to-right	fixed	3	10	cons	M_phi	62	31
+B.45	288	polish	left-to-right	fixed	3	8	cont	M_phi	62	40
+B.45	288	polish	left-to-right	fixed	3	9	cont	M_phi	62	27
+B.45	288	polish	left-to-right	fixed	3	10	cont	M_phi	62	33
+B.45	288	polish	left-to-right	fixed	3	8	cor	M_phi	62	7
+B.45	288	polish	left-to-right	fixed	3	9	cor	M_phi	62	34
+B.45	288	polish	left-to-right	fixed	3	10	cor	M_phi	336	4
+B.45	288	polish	left-to-right	fixed	3	8	ant	M_phi	363	4
+B.45	288	polish	left-to-right	fixed	3	9	ant	M_phi	363	114
+B.45	288	polish	left-to-right	fixed	3	10	ant	M_phi	363	135
+B.45	288	polish	left-to-right	fixed	3	8	dor	M_phi	62	33
+B.45	288	polish	left-to-right	fixed	3	9	dor	M_phi	62	3
+B.45	288	polish	left-to-right	fixed	3	10	dor	M_phi	62	43
+B.45	288	polish	left-to-right	fixed	3	8	lab	M_phi	62	47
+B.45	288	polish	left-to-right	fixed	3	9	lab	M_phi	62	41
+B.45	288	polish	left-to-right	fixed	3	10	lab	M_phi	336	4
+B.45	288	polish	left-to-right	fixed	3	8	distr	M_phi	62	34
+B.45	288	polish	left-to-right	fixed	3	9	distr	M_phi	62	25
+B.45	288	polish	left-to-right	fixed	3	10	distr	M_phi	62	29
+B.45	288	polish	left-to-right	fixed	3	8	delrel	M_phi	363	141
+B.45	288	polish	left-to-right	fixed	3	9	delrel	M_phi	363	4
+B.45	288	polish	left-to-right	fixed	3	10	delrel	M_phi	363	5
+B.45	288	polish	left-to-right	fixed	3	8	nasal	M_phi	62	43
+B.45	288	polish	left-to-right	fixed	3	9	nasal	M_phi	62	29
+B.45	288	polish	left-to-right	fixed	3	10	nasal	M_phi	62	43
+B.45	288	polish	left-to-right	fixed	3	8	lat	M_phi	62	32
+B.45	288	polish	left-to-right	fixed	3	9	lat	M_phi	62	28
+B.45	288	polish	left-to-right	fixed	3	10	lat	M_phi	62	39
+B.45	288	polish	left-to-right	fixed	3	8	high+voice+son+low	M_phi	8446	7416
+B.45	288	polish	left-to-right	fixed	3	9	high+voice+son+low	M_phi	17892	13122
+B.45	288	polish	left-to-right	fixed	3	10	high+voice+son+low	M_phi	17892	8122
+B.45	288	polish	left-to-right	fixed	3	8	back	M_phi	62	24
+B.45	288	polish	left-to-right	fixed	3	9	back	M_phi	62	32
+B.45	288	polish	left-to-right	fixed	3	10	back	M_phi	62	37
+B.45	288	polish	left-to-right	fixed	3	8	low	M_phi	336	192
+B.45	288	polish	left-to-right	fixed	3	9	low	M_phi	336	119
+B.45	288	polish	left-to-right	fixed	3	10	low	M_phi	336	182
+B.45	288	polish	left-to-right	fixed	3	8	tense+voice+son+round	M_phi	8446	6656
+B.45	288	polish	left-to-right	fixed	3	9	tense+voice+son+round	M_phi	17892	12482
+B.45	288	polish	left-to-right	fixed	3	10	tense+voice+son+round	M_phi	17892	17843
+B.45	288	polish	left-to-right	fixed	3	8	round	M_phi	336	162
+B.45	288	polish	left-to-right	fixed	3	9	round	M_phi	336	136
+B.45	288	polish	left-to-right	fixed	3	10	round	M_phi	336	153
+B.45	288	polish	left-to-right	fixed	3	8	__synthesized__	M_F	33352	8283
+B.45	288	polish	left-to-right	fixed	3	9	__synthesized__	M_F	59868	16272
+B.45	288	polish	left-to-right	fixed	3	10	__synthesized__	M_F	101110	17945
+B.46	289	polish	right-to-left	fixed	3	8	voice+son	M_phi	363	273
+B.46	289	polish	right-to-left	fixed	3	9	voice+son	M_phi	363	224
+B.46	289	polish	right-to-left	fixed	3	10	voice+son	M_phi	363	277
+B.46	289	polish	right-to-left	fixed	3	8	son	M_phi	62	39
+B.46	289	polish	right-to-left	fixed	3	9	son	M_phi	62	29
+B.46	289	polish	right-to-left	fixed	3	10	son	M_phi	62	43
+B.46	289	polish	right-to-left	fixed	3	8	cons	M_phi	62	44
+B.46	289	polish	right-to-left	fixed	3	9	cons	M_phi	62	3
+B.46	289	polish	right-to-left	fixed	3	10	cons	M_phi	62	42
+B.46	289	polish	right-to-left	fixed	3	8	cont	M_phi	62	30
+B.46	289	polish	right-to-left	fixed	3	9	cont	M_phi	62	34
+B.46	289	polish	right-to-left	fixed	3	10	cont	M_phi	62	27
+B.46	289	polish	right-to-left	fixed	3	8	cor	M_phi	62	32
+B.46	289	polish	right-to-left	fixed	3	9	cor	M_phi	62	30
+B.46	289	polish	right-to-left	fixed	3	10	cor	M_phi	336	152
+B.46	289	polish	right-to-left	fixed	3	8	ant	M_phi	363	202
+B.46	289	polish	right-to-left	fixed	3	9	ant	M_phi	363	134
+B.46	289	polish	right-to-left	fixed	3	10	ant	M_phi	363	123
+B.46	289	polish	right-to-left	fixed	3	8	dor	M_phi	62	36
+B.46	289	polish	right-to-left	fixed	3	9	dor	M_phi	62	47
+B.46	289	polish	right-to-left	fixed	3	10	dor	M_phi	62	43
+B.46	289	polish	right-to-left	fixed	3	8	lab	M_phi	62	35
+B.46	289	polish	right-to-left	fixed	3	9	lab	M_phi	62	31
+B.46	289	polish	right-to-left	fixed	3	10	lab	M_phi	336	201
+B.46	289	polish	right-to-left	fixed	3	8	distr	M_phi	62	40
+B.46	289	polish	right-to-left	fixed	3	9	distr	M_phi	62	38
+B.46	289	polish	right-to-left	fixed	3	10	distr	M_phi	62	3
+B.46	289	polish	right-to-left	fixed	3	8	delrel	M_phi	363	165
+B.46	289	polish	right-to-left	fixed	3	9	delrel	M_phi	363	135
+B.46	289	polish	right-to-left	fixed	3	10	delrel	M_phi	363	102
+B.46	289	polish	right-to-left	fixed	3	8	nasal	M_phi	62	29
+B.46	289	polish	right-to-left	fixed	3	9	nasal	M_phi	62	33
+B.46	289	polish	right-to-left	fixed	3	10	nasal	M_phi	62	27
+B.46	289	polish	right-to-left	fixed	3	8	lat	M_phi	62	42
+B.46	289	polish	right-to-left	fixed	3	9	lat	M_phi	62	3
+B.46	289	polish	right-to-left	fixed	3	10	lat	M_phi	62	41
+B.46	289	polish	right-to-left	fixed	3	8	high+voice+son+low	M_phi	8446	7896
+B.46	289	polish	right-to-left	fixed	3	9	high+voice+son+low	M_phi	17892	14842
+B.46	289	polish	right-to-left	fixed	3	10	high+voice+son+low	M_phi	17892	16002
+B.46	289	polish	right-to-left	fixed	3	8	back	M_phi	62	32
+B.46	289	polish	right-to-left	fixed	3	9	back	M_phi	62	41
+B.46	289	polish	right-to-left	fixed	3	10	back	M_phi	62	31
+B.46	289	polish	right-to-left	fixed	3	8	low	M_phi	336	203
+B.46	289	polish	right-to-left	fixed	3	9	low	M_phi	336	101
+B.46	289	polish	right-to-left	fixed	3	10	low	M_phi	336	174
+B.46	289	polish	right-to-left	fixed	3	8	tense+voice+son+round	M_phi	8446	6176
+B.46	289	polish	right-to-left	fixed	3	9	tense+voice+son+round	M_phi	17892	15322
+B.46	289	polish	right-to-left	fixed	3	10	tense+voice+son+round	M_phi	17892	16522
+B.46	289	polish	right-to-left	fixed	3	8	round	M_phi	336	4
+B.46	289	polish	right-to-left	fixed	3	9	round	M_phi	336	148
+B.46	289	polish	right-to-left	fixed	3	10	round	M_phi	336	150
+B.46	289	polish	right-to-left	fixed	3	8	__synthesized__	M_F	33352	8435
+B.46	289	polish	right-to-left	fixed	3	9	__synthesized__	M_F	59868	17526
+B.46	289	polish	right-to-left	fixed	3	10	__synthesized__	M_F	101110	16846
+B.47	290	polish	left-to-right	learned		8	voice+son	M_phi	363	127
+B.47	290	polish	left-to-right	learned		9	voice+son	M_phi	363	219
+B.47	290	polish	left-to-right	learned		10	voice+son	M_phi	363	127
+B.47	290	polish	left-to-right	learned		8	son	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	son	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	son	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	cons	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	cons	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	cons	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	cont	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	cont	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	cont	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	cor	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	cor	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	cor	M_phi	336	3
+B.47	290	polish	left-to-right	learned		8	ant	M_phi	363	3
+B.47	290	polish	left-to-right	learned		9	ant	M_phi	363	3
+B.47	290	polish	left-to-right	learned		10	ant	M_phi	363	3
+B.47	290	polish	left-to-right	learned		8	dor	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	dor	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	dor	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	lab	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	lab	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	lab	M_phi	336	3
+B.47	290	polish	left-to-right	learned		8	distr	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	distr	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	distr	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	delrel	M_phi	363	3
+B.47	290	polish	left-to-right	learned		9	delrel	M_phi	363	3
+B.47	290	polish	left-to-right	learned		10	delrel	M_phi	363	3
+B.47	290	polish	left-to-right	learned		8	nasal	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	nasal	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	nasal	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	lat	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	lat	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	lat	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	high+voice+son+low	M_phi	8446	8016
+B.47	290	polish	left-to-right	learned		9	high+voice+son+low	M_phi	17892	16562
+B.47	290	polish	left-to-right	learned		10	high+voice+son+low	M_phi	17892	17122
+B.47	290	polish	left-to-right	learned		8	back	M_phi	62	2
+B.47	290	polish	left-to-right	learned		9	back	M_phi	62	2
+B.47	290	polish	left-to-right	learned		10	back	M_phi	62	2
+B.47	290	polish	left-to-right	learned		8	low	M_phi	336	3
+B.47	290	polish	left-to-right	learned		9	low	M_phi	336	3
+B.47	290	polish	left-to-right	learned		10	low	M_phi	336	3
+B.47	290	polish	left-to-right	learned		8	tense+voice+son+round	M_phi	8446	7536
+B.47	290	polish	left-to-right	learned		9	tense+voice+son+round	M_phi	17892	15722
+B.47	290	polish	left-to-right	learned		10	tense+voice+son+round	M_phi	13342	17402
+B.47	290	polish	left-to-right	learned		8	round	M_phi	336	3
+B.47	290	polish	left-to-right	learned		9	round	M_phi	336	3
+B.47	290	polish	left-to-right	learned		10	round	M_phi	336	3
+B.47	290	polish	left-to-right	learned		8	__synthesized__	M_F	33352	8419
+B.47	290	polish	left-to-right	learned		9	__synthesized__	M_F	59868	17705
+B.47	290	polish	left-to-right	learned		10	__synthesized__	M_F	101110	17735
+B.48	291	polish	right-to-left	learned		8	voice+son	M_phi	363	98
+B.48	291	polish	right-to-left	learned		9	voice+son	M_phi	363	130
+B.48	291	polish	right-to-left	learned		10	voice+son	M_phi	363	136
+B.48	291	polish	right-to-left	learned		8	son	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	son	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	son	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	cons	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	cons	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	cons	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	cont	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	cont	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	cont	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	cor	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	cor	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	cor	M_phi	336	3
+B.48	291	polish	right-to-left	learned		8	ant	M_phi	363	3
+B.48	291	polish	right-to-left	learned		9	ant	M_phi	363	3
+B.48	291	polish	right-to-left	learned		10	ant	M_phi	363	3
+B.48	291	polish	right-to-left	learned		8	dor	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	dor	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	dor	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	lab	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	lab	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	lab	M_phi	336	3
+B.48	291	polish	right-to-left	learned		8	distr	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	distr	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	distr	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	delrel	M_phi	363	3
+B.48	291	polish	right-to-left	learned		9	delrel	M_phi	363	3
+B.48	291	polish	right-to-left	learned		10	delrel	M_phi	363	3
+B.48	291	polish	right-to-left	learned		8	nasal	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	nasal	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	nasal	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	lat	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	lat	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	lat	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	high+voice+son+low	M_phi	8446	7296
+B.48	291	polish	right-to-left	learned		9	high+voice+son+low	M_phi	17892	16142
+B.48	291	polish	right-to-left	learned		10	high+voice+son+low	M_phi	17892	16842
+B.48	291	polish	right-to-left	learned		8	back	M_phi	62	2
+B.48	291	polish	right-to-left	learned		9	back	M_phi	62	2
+B.48	291	polish	right-to-left	learned		10	back	M_phi	62	2
+B.48	291	polish	right-to-left	learned		8	low	M_phi	336	3
+B.48	291	polish	right-to-left	learned		9	low	M_phi	336	3
+B.48	291	polish	right-to-left	learned		10	low	M_phi	336	3
+B.48	291	polish	right-to-left	learned		8	tense+voice+son+round	M_phi	8446	6856
+B.48	291	polish	right-to-left	learned		9	tense+voice+son+round	M_phi	17892	15322
+B.48	291	polish	right-to-left	learned		10	tense+voice+son+round	M_phi	13342	16702
+B.48	291	polish	right-to-left	learned		8	round	M_phi	336	3
+B.48	291	polish	right-to-left	learned		9	round	M_phi	336	3
+B.48	291	polish	right-to-left	learned		10	round	M_phi	336	3
+B.48	291	polish	right-to-left	learned		8	__synthesized__	M_F	33352	8186
+B.48	291	polish	right-to-left	learned		9	__synthesized__	M_F	59868	17367
+B.48	291	polish	right-to-left	learned		10	__synthesized__	M_F	101110	17634
