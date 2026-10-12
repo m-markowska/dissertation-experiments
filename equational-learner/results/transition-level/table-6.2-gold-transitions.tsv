@@ -1,0 +1,11 @@
+language	sample_size	gold_transitions	direction	identity_transitions	non_identity_transitions	non_identity_percent
+koasati	48	325	L2R	289	36	11
+koasati	48	325	R2L	306	19	6
+kerewe	28	226	L2R	222	4	2
+kerewe	28	226	R2L	197	29	9
+samoan	116	257	L2R	42	215	84
+samoan	116	257	R2L	186	71	28
+lumasaaba	14	2042	L2R	1466	576	28
+lumasaaba	14	2042	R2L	1195	847	41
+serbo_croatian	132	11662	L2R	4033	7629	65
+serbo_croatian	132	11662	R2L	11404	258	2

@@ -1,0 +1,109 @@
+fold	sample_size	non_identical_training_pairs_seen	train_total	test_total	feature_passed	feature_total	feature_accuracy	failed_features	pair_passed	pair_total	pair_accuracy	pair_failed	unevaluable_features	failed_pairs_path	succeeded
+1-of-10	1	0	4501	502	22	25	0.88	high,tense,voice	473	502	0.9422310756972112	29		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1-failed-pairs.tsv	False
+1-of-10	100	1	4501	502	23	25	0.92	high,tense	486	502	0.9681274900398407	16		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-100-failed-pairs.tsv	False
+1-of-10	200	2	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-200-failed-pairs.tsv	False
+1-of-10	300	4	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-300-failed-pairs.tsv	False
+1-of-10	400	4	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-400-failed-pairs.tsv	False
+1-of-10	500	8	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-500-failed-pairs.tsv	False
+1-of-10	600	11	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-600-failed-pairs.tsv	False
+1-of-10	700	15	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-700-failed-pairs.tsv	False
+1-of-10	800	16	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-800-failed-pairs.tsv	False
+1-of-10	900	17	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-900-failed-pairs.tsv	False
+1-of-10	1000	20	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1000-failed-pairs.tsv	False
+1-of-10	1100	25	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1100-failed-pairs.tsv	False
+1-of-10	1200	26	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1200-failed-pairs.tsv	False
+1-of-10	1300	29	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1300-failed-pairs.tsv	False
+1-of-10	1400	32	4501	502	23	25	0.92	high,tense	500	502	0.9960159362549801	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-1-of-10-sample-1400-failed-pairs.tsv	False
+1-of-10	1500	34	4501	502	25	25	1.0		502	502	1.0	0			True
+2-of-10	1	0	4502	501	22	25	0.88	high,tense,voice	482	501	0.9620758483033932	19		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-2-of-10-sample-1-failed-pairs.tsv	False
+2-of-10	100	1	4502	501	23	25	0.92	high,tense	493	501	0.9840319361277445	8		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-2-of-10-sample-100-failed-pairs.tsv	False
+2-of-10	200	3	4502	501	25	25	1.0		501	501	1.0	0			True
+3-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	477	500	0.954	23		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1-failed-pairs.tsv	False
+3-of-10	100	1	4503	500	23	25	0.92	high,tense	487	500	0.974	13		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-100-failed-pairs.tsv	False
+3-of-10	200	3	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-200-failed-pairs.tsv	False
+3-of-10	300	6	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-300-failed-pairs.tsv	False
+3-of-10	400	6	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-400-failed-pairs.tsv	False
+3-of-10	500	10	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-500-failed-pairs.tsv	False
+3-of-10	600	13	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-600-failed-pairs.tsv	False
+3-of-10	700	17	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-700-failed-pairs.tsv	False
+3-of-10	800	18	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-800-failed-pairs.tsv	False
+3-of-10	900	19	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-900-failed-pairs.tsv	False
+3-of-10	1000	21	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1000-failed-pairs.tsv	False
+3-of-10	1100	25	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1100-failed-pairs.tsv	False
+3-of-10	1200	25	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1200-failed-pairs.tsv	False
+3-of-10	1300	30	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1300-failed-pairs.tsv	False
+3-of-10	1400	34	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-3-of-10-sample-1400-failed-pairs.tsv	False
+3-of-10	1500	36	4503	500	25	25	1.0		500	500	1.0	0			True
+4-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	477	500	0.954	23		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-4-of-10-sample-1-failed-pairs.tsv	False
+4-of-10	100	1	4503	500	23	25	0.92	high,tense	487	500	0.974	13		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-4-of-10-sample-100-failed-pairs.tsv	False
+4-of-10	200	3	4503	500	25	25	1.0		500	500	1.0	0			True
+5-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	477	500	0.954	23		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1-failed-pairs.tsv	False
+5-of-10	100	1	4503	500	23	25	0.92	high,tense	486	500	0.972	14		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-100-failed-pairs.tsv	False
+5-of-10	200	3	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-200-failed-pairs.tsv	False
+5-of-10	300	6	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-300-failed-pairs.tsv	False
+5-of-10	400	6	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-400-failed-pairs.tsv	False
+5-of-10	500	10	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-500-failed-pairs.tsv	False
+5-of-10	600	13	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-600-failed-pairs.tsv	False
+5-of-10	700	17	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-700-failed-pairs.tsv	False
+5-of-10	800	18	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-800-failed-pairs.tsv	False
+5-of-10	900	18	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-900-failed-pairs.tsv	False
+5-of-10	1000	21	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1000-failed-pairs.tsv	False
+5-of-10	1100	25	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1100-failed-pairs.tsv	False
+5-of-10	1200	26	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1200-failed-pairs.tsv	False
+5-of-10	1300	29	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1300-failed-pairs.tsv	False
+5-of-10	1400	33	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1400-failed-pairs.tsv	False
+5-of-10	1500	34	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1500-failed-pairs.tsv	False
+5-of-10	1600	38	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1600-failed-pairs.tsv	False
+5-of-10	1700	41	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1700-failed-pairs.tsv	False
+5-of-10	1800	43	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1800-failed-pairs.tsv	False
+5-of-10	1900	46	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-1900-failed-pairs.tsv	False
+5-of-10	2000	48	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-2000-failed-pairs.tsv	False
+5-of-10	2100	49	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-2100-failed-pairs.tsv	False
+5-of-10	2200	50	4503	500	23	25	0.92	high,tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-5-of-10-sample-2200-failed-pairs.tsv	False
+5-of-10	2300	53	4503	500	25	25	1.0		500	500	1.0	0			True
+6-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	471	500	0.942	29		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-1-failed-pairs.tsv	False
+6-of-10	100	1	4503	500	23	25	0.92	high,tense	481	500	0.962	19		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-100-failed-pairs.tsv	False
+6-of-10	200	3	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-200-failed-pairs.tsv	False
+6-of-10	300	6	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-300-failed-pairs.tsv	False
+6-of-10	400	6	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-400-failed-pairs.tsv	False
+6-of-10	500	8	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-500-failed-pairs.tsv	False
+6-of-10	600	10	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-600-failed-pairs.tsv	False
+6-of-10	700	14	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-700-failed-pairs.tsv	False
+6-of-10	800	14	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-800-failed-pairs.tsv	False
+6-of-10	900	15	4503	500	24	25	0.96	tense	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-6-of-10-sample-900-failed-pairs.tsv	False
+6-of-10	1000	18	4503	500	25	25	1.0		500	500	1.0	0			True
+7-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	476	500	0.952	24		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-7-of-10-sample-1-failed-pairs.tsv	False
+7-of-10	100	1	4503	500	23	25	0.92	high,tense	486	500	0.972	14		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-7-of-10-sample-100-failed-pairs.tsv	False
+7-of-10	200	3	4503	500	24	25	0.96	high	499	500	0.998	1		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-7-of-10-sample-200-failed-pairs.tsv	False
+7-of-10	300	6	4503	500	25	25	1.0		500	500	1.0	0			True
+8-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	471	500	0.942	29		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-8-of-10-sample-1-failed-pairs.tsv	False
+8-of-10	100	1	4503	500	23	25	0.92	high,tense	483	500	0.966	17		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-8-of-10-sample-100-failed-pairs.tsv	False
+8-of-10	200	2	4503	500	23	25	0.92	high,tense	483	500	0.966	17		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-8-of-10-sample-200-failed-pairs.tsv	False
+8-of-10	300	5	4503	500	25	25	1.0		500	500	1.0	0			True
+9-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	478	500	0.956	22		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1-failed-pairs.tsv	False
+9-of-10	100	0	4503	500	22	25	0.88	high,tense,voice	478	500	0.956	22		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-100-failed-pairs.tsv	False
+9-of-10	200	2	4503	500	23	25	0.92	high,tense	497	500	0.994	3		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-200-failed-pairs.tsv	False
+9-of-10	300	5	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-300-failed-pairs.tsv	False
+9-of-10	400	5	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-400-failed-pairs.tsv	False
+9-of-10	500	9	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-500-failed-pairs.tsv	False
+9-of-10	600	13	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-600-failed-pairs.tsv	False
+9-of-10	700	16	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-700-failed-pairs.tsv	False
+9-of-10	800	16	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-800-failed-pairs.tsv	False
+9-of-10	900	17	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-900-failed-pairs.tsv	False
+9-of-10	1000	20	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1000-failed-pairs.tsv	False
+9-of-10	1100	24	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1100-failed-pairs.tsv	False
+9-of-10	1200	25	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1200-failed-pairs.tsv	False
+9-of-10	1300	29	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1300-failed-pairs.tsv	False
+9-of-10	1400	33	4503	500	23	25	0.92	high,tense	498	500	0.996	2		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-9-of-10-sample-1400-failed-pairs.tsv	False
+9-of-10	1500	35	4503	500	25	25	1.0		500	500	1.0	0			True
+10-of-10	1	0	4503	500	22	25	0.88	high,tense,voice	475	500	0.95	25		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-1-failed-pairs.tsv	False
+10-of-10	100	1	4503	500	23	25	0.92	high,tense	486	500	0.972	14		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-100-failed-pairs.tsv	False
+10-of-10	200	3	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-200-failed-pairs.tsv	False
+10-of-10	300	4	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-300-failed-pairs.tsv	False
+10-of-10	400	4	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-400-failed-pairs.tsv	False
+10-of-10	500	8	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-500-failed-pairs.tsv	False
+10-of-10	600	11	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-600-failed-pairs.tsv	False
+10-of-10	700	15	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-700-failed-pairs.tsv	False
+10-of-10	800	15	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-800-failed-pairs.tsv	False
+10-of-10	900	16	4503	500	23	25	0.92	high,tense	496	500	0.992	4		pol-5000-fixed-spec-R2L-identity-seed-13-10fold-batch-100-learning-curve/fold-10-of-10-sample-900-failed-pairs.tsv	False
+10-of-10	1000	19	4503	500	25	25	1.0		500	500	1.0	0			True

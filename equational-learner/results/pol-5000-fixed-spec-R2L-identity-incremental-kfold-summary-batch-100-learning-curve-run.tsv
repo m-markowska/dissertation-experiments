@@ -1,0 +1,11 @@
+fold	result	num_datapoints_needed	num_non_identical_datapoints_needed	train_total	test_total	batches_tried	needed_non_identical_reversed_segment_path
+1-of-10	passed	1500	34	4501	502	1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500	pol-5000-feat-reverse-seed-13-fold-1-of-10-needed-non-identical-seg.tsv
+2-of-10	passed	200	3	4502	501	1,100,200	pol-5000-feat-reverse-seed-13-fold-2-of-10-needed-non-identical-seg.tsv
+3-of-10	passed	1500	36	4503	500	1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500	pol-5000-feat-reverse-seed-13-fold-3-of-10-needed-non-identical-seg.tsv
+4-of-10	passed	200	3	4503	500	1,100,200	pol-5000-feat-reverse-seed-13-fold-4-of-10-needed-non-identical-seg.tsv
+5-of-10	passed	2300	53	4503	500	1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300	pol-5000-feat-reverse-seed-13-fold-5-of-10-needed-non-identical-seg.tsv
+6-of-10	passed	1000	18	4503	500	1,100,200,300,400,500,600,700,800,900,1000	pol-5000-feat-reverse-seed-13-fold-6-of-10-needed-non-identical-seg.tsv
+7-of-10	passed	300	6	4503	500	1,100,200,300	pol-5000-feat-reverse-seed-13-fold-7-of-10-needed-non-identical-seg.tsv
+8-of-10	passed	300	5	4503	500	1,100,200,300	pol-5000-feat-reverse-seed-13-fold-8-of-10-needed-non-identical-seg.tsv
+9-of-10	passed	1500	35	4503	500	1,100,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500	pol-5000-feat-reverse-seed-13-fold-9-of-10-needed-non-identical-seg.tsv
+10-of-10	passed	1000	19	4503	500	1,100,200,300,400,500,600,700,800,900,1000	pol-5000-feat-reverse-seed-13-fold-10-of-10-needed-non-identical-seg.tsv

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use SEAL or its experiment data, cite this software and the accompanying dissertation."
+title: "SEAL Equational Learner"
+type: software
+authors:
+  - family-names: "Markowska"
+    given-names: "Magdalena"
+version: 1.0.0
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Markowska"
+      given-names: "Magdalena"
+  title: "Learning Phonological Transductions from Sparse Data over Structured Representations"
+  year: 2026

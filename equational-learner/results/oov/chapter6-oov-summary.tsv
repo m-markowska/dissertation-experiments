@@ -1,0 +1,11 @@
+language	feature_condition	direction	passed	total	accuracy_percent
+koasati	learner_selected	L2R	9	10	90
+koasati	learner_selected	R2L	10	10	100
+kerewe	learner_selected	L2R	10	10	100
+kerewe	learner_selected	R2L	9	10	90
+samoan	learner_selected	L2R	10	10	100
+samoan	learner_selected	R2L	10	10	100
+serbo_croatian	learner_selected	L2R	8	10	80
+serbo_croatian	learner_selected	R2L	9	10	90
+serbo_croatian	manually_imposed	L2R	10	10	100
+serbo_croatian	manually_imposed	R2L	9	10	90

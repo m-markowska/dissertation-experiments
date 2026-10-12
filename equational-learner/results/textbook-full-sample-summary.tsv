@@ -1,0 +1,11 @@
+language	direction	passed	total	expected_passed	matches_dissertation
+kerewe	L2R	25	25	25	True
+kerewe	R2L	25	25	25	True
+koasati	L2R	25	25	25	True
+koasati	R2L	25	25	25	True
+lumasaaba	L2R	20	25	20	True
+lumasaaba	R2L	25	25	25	True
+samoan	L2R	25	25	25	True
+samoan	R2L	25	25	25	True
+serbo_croatian	L2R	25	25	25	True
+serbo_croatian	R2L	25	25	25	True

@@ -1,0 +1,117 @@
+concatenative
+o l o,o l o,rub SIMPLE
+o l o i a,o l o i a,rub PERF
+l a f o,l a f o,cast SIMPLE
+l a f o i a,l a f o i a,cast PERF
+a ŋ a,a ŋ a,face SIMPLE
+a ŋ a i a,a ŋ a i a,face PERF
+u s u,u s u,get_up_and_go_early SIMPLE
+u s u i a,u s u i a,get_up_and_go_early PERF
+t a u,t a u,reach_a_destination SIMPLE
+t a u i a,t a u i a,reach_a_destination PERF
+t a u i,t a u i,repay SIMPLE
+t a u i i a,t a u i a,repay PERF
+s a ʔ i l i,s a ʔ i l i,look_for SIMPLE
+s a ʔ i l i i a,s a ʔ i l i a,look_for PERF
+v a ŋ a i,v a ŋ a i,face_each_other SIMPLE
+v a ŋ a i i a,v a ŋ a i a,face_each_other PERF
+p a ʔ i,p a ʔ i,touch SIMPLE
+p a ʔ i i a,p a ʔ i a,touch PERF
+n a u m a t i,n a u m a t i,be waterless SIMPLE
+n a u m a t i i a,n a u m a t i a,be waterless PERF
+s a u n i,s a u n i,prepare SIMPLE
+s a u n i i a,s a u n i a,prepare PERF
+s e ŋ i,s e ŋ i,be shy SIMPLE
+s e ŋ i i a,s e ŋ i a,be shy PERF
+l e l e,l e l e,fly SIMPLE
+l e l e i a,l e l e a,fly PERF
+s u ʔ e,s u ʔ e,uncover SIMPLE
+s u ʔ e i a,s u ʔ e a,uncover PERF
+t a ʔ e,t a ʔ e,smash SIMPLE
+t a ʔ e i a,t a ʔ e a,smash PERF
+t a f e,t a f e,flow SIMPLE
+t a f e i a,t a f e a,flow PERF
+t a u p u l e,t a u p u l e,confer SIMPLE
+t a u p u l e i a,t a u p u l e a,confer PERF
+p a l e p a l e,p a l e p a l e,hold_firm SIMPLE
+p a l e p a l e i a,p a l e p a l e a,hold_firm PERF
+t u l,t u,stand SIMPLE
+t u l i a,t u l i a,stand PERF
+t a u l,t a u,cost SIMPLE
+t a u l i a,t a u l i a,cost PERF
+ʔ a l o f,ʔ a l o,avoid SIMPLE
+ʔ a l o f i a,ʔ a l o f i a,avoid PERF
+o s o f,o s o,jump SIMPLE
+o s o f i a,o s o f i a,jump PERF
+s a o f,s a o,collect SIMPLE
+s a o f i a,s a o f i a,collect PERF
+a s u ŋ,a s u,smoke SIMPLE
+a s u ŋ i a,a s u ŋ i a,smoke PERF
+p o l e ŋ,p o l e,be anxious SIMPLE
+p o l e ŋ i a,p o l e ŋ i a,be anxious PERF
+i f o ŋ,i f o,bow_down SIMPLE
+i f o ŋ i a,i f o ŋ i a,bow_down PERF
+l a ŋ,l a,mock SIMPLE
+l a ŋ i a,l a ŋ i a,mock PERF
+m i l o s,m i l o,twist SIMPLE
+m i l o s i a,m i l o s i a,twist PERF
+v a l u s,v a l u,scrape SIMPLE
+v a l u s i a,v a l u s i a,scrape PERF
+v e l a s,v e l a,be_cooked SIMPLE
+v e l a s i a,v e l a s i a,be_cooked PERF
+a p i t,a p i,be_lodged SIMPLE
+a p i t i a,a p i t i a,be_lodged PERF
+e ʔ e t,e ʔ e,be_raised SIMPLE
+e ʔ e t i a,e ʔ e t i a,be_raised PERF
+l a v a t,l a v a,be_able SIMPLE
+l a v a t i a,l a v a t i a,be_able PERF
+u t,u,grip SIMPLE
+u t i a,u t i a,grip PERF
+p u n i t,p u n i,be_blocked SIMPLE
+p u n i t i a,p u n i t i a,be_blocked PERF
+s i ʔ o m,s i ʔ o,be_enclosed SIMPLE
+s i ʔ o m i a,s i ʔ o m i a,be_enclosed PERF
+ŋ a l o m,ŋ a l o,forget SIMPLE
+ŋ a l o m i a,ŋ a l o m i a,forget PERF
+s o p o ʔ,s o p o,go_across SIMPLE
+s o p o ʔ i a,s o p o ʔ i a,go_across PERF
+a u l,a u,flow_on SIMPLE
+a u l i a,a u l i a,flow_on PERF
+m a t a u l,m a t a u,observe SIMPLE
+m a t a u l i a,m a t a u l i a,observe PERF
+i l i f,i l i,blow SIMPLE
+i l i f i a,i l i f i a,blow PERF
+u l u f,u l u,enter SIMPLE
+u l u f i a,u l u f i a,enter PERF
+t a ŋ o f,t a ŋ o,take_hold SIMPLE
+t a ŋ o f i a,t a ŋ o f i a,take_hold PERF
+s o a ŋ,s o a,have_a_friend SIMPLE
+s o a ŋ i a,s o a ŋ i a,have_a_friend
+f e s i l i ŋ,f e s i l i,question SIMPLE
+f e s i l i ŋ i a,f e s i l i ŋ i a,question PERF
+ʔ o t e ŋ,ʔ o t e,scold SIMPLE
+ʔ o t e ŋ i a,ʔ o t e ŋ i a,scold PERF
+t o f u ŋ,t o f u,dive SIMPLE
+t o f u ŋ i a,t o f u ŋ i a,dive PERF
+l a ʔ a s,l a ʔ a,step SIMPLE
+l a ʔ a s i a,l a ʔ a s i a,step PERF
+t a ŋ i s,t a ŋ i,cry SIMPLE
+t a ŋ i s i a,t a ŋ i s i a,cry PERF
+m o t u s,m o t u,break SIMPLE
+m o t u s i a,m o t u s i a,break PERF
+m a t a ʔ u t,m a t a ʔ u,fear SIMPLE
+m a t a ʔ u t i a,m a t a ʔ u t i a,fear PERF
+s a u t,s a u,fall SIMPLE
+s a u t i a,s a u t i a,fall PERF
+o ʔ o t,o ʔ o,arrive SIMPLE
+o ʔ o t i a,o ʔ o t i a,arrive PERF
+u f i t,u f i,cover SIMPLE
+u f i t i a,u f i t i a,cover PERF
+t a n u m,t a n u,cover_up SIMPLE
+t a n u m i a,t a n u m i a,cover_up PERF
+m o ʔ o m,m o ʔ o,admire SIMPLE
+m o ʔ o m i a,m o ʔ o m i a,admire PERF
+t a o m,t a o,cover SIMPLE
+t a o m i a,t a o m i a,cover PERF
+f a n a ʔ,f a n a,shoot SIMPLE
+f a n a ʔ i a,f a n a ʔ i a,shoot PERF

@@ -1,0 +1,15 @@
+language	feature_condition	direction	match_percent	matched_transitions	matched_unattested_contexts
+koasati	learner_selected	L2R	87	282	223
+koasati	learner_selected	R2L	96	312	248
+kerewe	learner_selected	L2R	95	215	172
+kerewe	learner_selected	R2L	87	196	153
+samoan	learner_selected	L2R	60	153	37
+samoan	learner_selected	R2L	69	175	121
+lumasaaba	learner_selected	L2R	14	277	275
+lumasaaba	learner_selected	R2L	14	276	274
+lumasaaba	manually_imposed	L2R	68	707	705
+lumasaaba	manually_imposed	R2L	29	597	595
+serbo_croatian	learner_selected	L2R	4	432	429
+serbo_croatian	learner_selected	R2L	16	1822	1819
+serbo_croatian	manually_imposed	L2R	6	726	723
+serbo_croatian	manually_imposed	R2L	36	4211	4209

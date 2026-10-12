@@ -1,0 +1,277 @@
+src,tgt,example_idx,trigram,direction_checked,checked_in_data_as
+"('N', 'a')",a,1,N a a,forward,N a a
+"('N', 'a')",e,1,N a e,forward,N a e
+"('N', 'a')",o,1,N a o,forward,N a o
+"('N', 'f')",>,1,N f >,forward,N f >
+"('N', 'f')",f,1,N f f,forward,N f f
+"('N', 'f')",l,1,N f l,forward,N f l
+"('N', 'f')",t,1,N f t,forward,N f t
+"('N', 'f')",β,1,N f β,forward,N f β
+"('N', 'l')",>,1,N l >,forward,N l >
+"('N', 'o')",a,1,N o a,forward,N o a
+"('N', 'o')",e,1,N o e,forward,N o e
+"('N', 'o')",o,1,N o o,forward,N o o
+"('N', 't')",>,1,N t >,forward,N t >
+"('N', 't')",t,1,N t t,forward,N t t
+"('N', 'u')",i,1,N u i,forward,N u i
+"('N', 'u')",u,1,N u u,forward,N u u
+"('N', 'w')",w,1,N w w,forward,N w w
+"('N', 'β')",>,1,N β >,forward,N β >
+"('a', 'a')",a,1,a a a,forward,a a a
+"('a', 'a')",e,1,a a e,forward,a a e
+"('a', 'a')",o,1,a a o,forward,a a o
+"('a', 'e')",a,1,a e a,forward,a e a
+"('a', 'e')",o,1,a e o,forward,a e o
+"('a', 'f')",>,1,a f >,forward,a f >
+"('a', 'f')",f,1,a f f,forward,a f f
+"('a', 'f')",l,1,a f l,forward,a f l
+"('a', 'f')",t,1,a f t,forward,a f t
+"('a', 'f')",β,1,a f β,forward,a f β
+"('a', 'i')",u,1,a i u,forward,a i u
+"('a', 'l')",>,1,a l >,forward,a l >
+"('a', 'o')",a,1,a o a,forward,a o a
+"('a', 'o')",e,1,a o e,forward,a o e
+"('a', 'o')",o,1,a o o,forward,a o o
+"('a', 't')",>,1,a t >,forward,a t >
+"('a', 't')",t,1,a t t,forward,a t t
+"('a', 'u')",i,1,a u i,forward,a u i
+"('a', 'u')",u,1,a u u,forward,a u u
+"('a', 'w')",w,1,a w w,forward,a w w
+"('a', 'β')",>,1,a β >,forward,a β >
+"('e', 'a')",a,1,e a a,forward,e a a
+"('e', 'a')",e,1,e a e,forward,e a e
+"('e', 'a')",o,1,e a o,forward,e a o
+"('e', 'e')",a,1,e e a,forward,e e a
+"('e', 'e')",e,1,e e e,forward,e e e
+"('e', 'e')",o,1,e e o,forward,e e o
+"('e', 'f')",>,1,e f >,forward,e f >
+"('e', 'i')",i,1,e i i,forward,e i i
+"('e', 'i')",u,1,e i u,forward,e i u
+"('e', 'k')",k,1,e k k,forward,e k k
+"('e', 'l')",>,1,e l >,forward,e l >
+"('e', 'o')",a,1,e o a,forward,e o a
+"('e', 'o')",e,1,e o e,forward,e o e
+"('e', 'o')",o,1,e o o,forward,e o o
+"('e', 't')",>,1,e t >,forward,e t >
+"('e', 'u')",i,1,e u i,forward,e u i
+"('e', 'u')",u,1,e u u,forward,e u u
+"('e', 'w')",w,1,e w w,forward,e w w
+"('e', 'β')",>,1,e β >,forward,e β >
+"('f', 'a')",a,1,f a a,forward,f a a
+"('f', 'a')",e,1,f a e,forward,f a e
+"('f', 'a')",o,1,f a o,forward,f a o
+"('f', 'f')",>,1,f f >,forward,f f >
+"('f', 'f')",f,1,f f f,forward,f f f
+"('f', 'f')",l,1,f f l,forward,f f l
+"('f', 'f')",t,1,f f t,forward,f f t
+"('f', 'f')",β,1,f f β,forward,f f β
+"('f', 'l')",>,1,f l >,forward,f l >
+"('f', 'o')",a,1,f o a,forward,f o a
+"('f', 'o')",e,1,f o e,forward,f o e
+"('f', 'o')",o,1,f o o,forward,f o o
+"('f', 't')",>,1,f t >,forward,f t >
+"('f', 't')",t,1,f t t,forward,f t t
+"('f', 'u')",i,1,f u i,forward,f u i
+"('f', 'u')",u,1,f u u,forward,f u u
+"('f', 'w')",w,1,f w w,forward,f w w
+"('f', 'β')",>,1,f β >,forward,f β >
+"('i', 'a')",a,1,i a a,forward,i a a
+"('i', 'a')",e,1,i a e,forward,i a e
+"('i', 'a')",o,1,i a o,forward,i a o
+"('i', 'e')",a,1,i e a,forward,i e a
+"('i', 'e')",e,1,i e e,forward,i e e
+"('i', 'e')",o,1,i e o,forward,i e o
+"('i', 'f')",>,1,i f >,forward,i f >
+"('i', 'i')",i,1,i i i,forward,i i i
+"('i', 'i')",u,1,i i u,forward,i i u
+"('i', 'k')",k,1,i k k,forward,i k k
+"('i', 'l')",>,1,i l >,forward,i l >
+"('i', 'o')",a,1,i o a,forward,i o a
+"('i', 'o')",e,1,i o e,forward,i o e
+"('i', 'o')",o,1,i o o,forward,i o o
+"('i', 't')",>,1,i t >,forward,i t >
+"('i', 'u')",i,1,i u i,forward,i u i
+"('i', 'u')",u,1,i u u,forward,i u u
+"('i', 'w')",w,1,i w w,forward,i w w
+"('i', 'β')",>,1,i β >,forward,i β >
+"('k', 'e')",a,1,k e a,forward,k e a
+"('k', 'e')",e,1,k e e,forward,k e e
+"('k', 'e')",o,1,k e o,forward,k e o
+"('k', 'f')",>,1,k f >,forward,k f >
+"('k', 'f')",f,1,k f f,forward,k f f
+"('k', 'f')",l,1,k f l,forward,k f l
+"('k', 'f')",t,1,k f t,forward,k f t
+"('k', 'f')",β,1,k f β,forward,k f β
+"('k', 'i')",i,1,k i i,forward,k i i
+"('k', 'i')",u,1,k i u,forward,k i u
+"('k', 'k')",k,1,k k k,forward,k k k
+"('k', 'l')",>,1,k l >,forward,k l >
+"('k', 't')",>,1,k t >,forward,k t >
+"('k', 't')",t,1,k t t,forward,k t t
+"('k', 'w')",w,1,k w w,forward,k w w
+"('k', 'β')",>,1,k β >,forward,k β >
+"('l', 'a')",a,1,l a a,forward,l a a
+"('l', 'a')",e,1,l a e,forward,l a e
+"('l', 'a')",o,1,l a o,forward,l a o
+"('l', 'e')",a,1,l e a,forward,l e a
+"('l', 'e')",e,1,l e e,forward,l e e
+"('l', 'e')",o,1,l e o,forward,l e o
+"('l', 'f')",>,1,l f >,forward,l f >
+"('l', 'f')",f,1,l f f,forward,l f f
+"('l', 'f')",l,1,l f l,forward,l f l
+"('l', 'f')",t,1,l f t,forward,l f t
+"('l', 'f')",β,1,l f β,forward,l f β
+"('l', 'i')",i,1,l i i,forward,l i i
+"('l', 'i')",u,1,l i u,forward,l i u
+"('l', 'k')",k,1,l k k,forward,l k k
+"('l', 'l')",>,1,l l >,forward,l l >
+"('l', 'o')",a,1,l o a,forward,l o a
+"('l', 'o')",e,1,l o e,forward,l o e
+"('l', 'o')",o,1,l o o,forward,l o o
+"('l', 't')",>,1,l t >,forward,l t >
+"('l', 't')",t,1,l t t,forward,l t t
+"('l', 'u')",i,1,l u i,forward,l u i
+"('l', 'u')",u,1,l u u,forward,l u u
+"('l', 'w')",w,1,l w w,forward,l w w
+"('l', 'β')",>,1,l β >,forward,l β >
+"('o', 'a')",a,1,o a a,forward,o a a
+"('o', 'a')",e,1,o a e,forward,o a e
+"('o', 'a')",o,1,o a o,forward,o a o
+"('o', 'e')",a,1,o e a,forward,o e a
+"('o', 'e')",e,1,o e e,forward,o e e
+"('o', 'e')",o,1,o e o,forward,o e o
+"('o', 'f')",>,1,o f >,forward,o f >
+"('o', 'f')",f,1,o f f,forward,o f f
+"('o', 'f')",l,1,o f l,forward,o f l
+"('o', 'f')",t,1,o f t,forward,o f t
+"('o', 'f')",β,1,o f β,forward,o f β
+"('o', 'i')",i,1,o i i,forward,o i i
+"('o', 'i')",u,1,o i u,forward,o i u
+"('o', 'k')",k,1,o k k,forward,o k k
+"('o', 'l')",>,1,o l >,forward,o l >
+"('o', 'o')",a,1,o o a,forward,o o a
+"('o', 'o')",e,1,o o e,forward,o o e
+"('o', 'o')",o,1,o o o,forward,o o o
+"('o', 't')",>,1,o t >,forward,o t >
+"('o', 't')",t,1,o t t,forward,o t t
+"('o', 'u')",i,1,o u i,forward,o u i
+"('o', 'u')",u,1,o u u,forward,o u u
+"('o', 'w')",w,1,o w w,forward,o w w
+"('o', 'β')",>,1,o β >,forward,o β >
+"('t', 'a')",a,1,t a a,forward,t a a
+"('t', 'a')",e,1,t a e,forward,t a e
+"('t', 'a')",o,1,t a o,forward,t a o
+"('t', 'e')",a,1,t e a,forward,t e a
+"('t', 'e')",e,1,t e e,forward,t e e
+"('t', 'e')",o,1,t e o,forward,t e o
+"('t', 'f')",>,1,t f >,forward,t f >
+"('t', 'f')",f,1,t f f,forward,t f f
+"('t', 'f')",l,1,t f l,forward,t f l
+"('t', 'f')",t,1,t f t,forward,t f t
+"('t', 'f')",β,1,t f β,forward,t f β
+"('t', 'i')",i,1,t i i,forward,t i i
+"('t', 'i')",u,1,t i u,forward,t i u
+"('t', 'k')",k,1,t k k,forward,t k k
+"('t', 'l')",>,1,t l >,forward,t l >
+"('t', 'o')",a,1,t o a,forward,t o a
+"('t', 'o')",e,1,t o e,forward,t o e
+"('t', 'o')",o,1,t o o,forward,t o o
+"('t', 't')",>,1,t t >,forward,t t >
+"('t', 't')",t,1,t t t,forward,t t t
+"('t', 'u')",i,1,t u i,forward,t u i
+"('t', 'u')",u,1,t u u,forward,t u u
+"('t', 'w')",w,1,t w w,forward,t w w
+"('t', 'β')",>,1,t β >,forward,t β >
+"('u', 'a')",a,1,u a a,forward,u a a
+"('u', 'a')",e,1,u a e,forward,u a e
+"('u', 'a')",o,1,u a o,forward,u a o
+"('u', 'e')",a,1,u e a,forward,u e a
+"('u', 'e')",e,1,u e e,forward,u e e
+"('u', 'e')",o,1,u e o,forward,u e o
+"('u', 'f')",>,1,u f >,forward,u f >
+"('u', 'f')",f,1,u f f,forward,u f f
+"('u', 'f')",l,1,u f l,forward,u f l
+"('u', 'f')",t,1,u f t,forward,u f t
+"('u', 'f')",β,1,u f β,forward,u f β
+"('u', 'i')",i,1,u i i,forward,u i i
+"('u', 'i')",u,1,u i u,forward,u i u
+"('u', 'k')",k,1,u k k,forward,u k k
+"('u', 'l')",>,1,u l >,forward,u l >
+"('u', 'o')",a,1,u o a,forward,u o a
+"('u', 'o')",e,1,u o e,forward,u o e
+"('u', 'o')",o,1,u o o,forward,u o o
+"('u', 't')",>,1,u t >,forward,u t >
+"('u', 't')",t,1,u t t,forward,u t t
+"('u', 'u')",i,1,u u i,forward,u u i
+"('u', 'u')",u,1,u u u,forward,u u u
+"('u', 'w')",w,1,u w w,forward,u w w
+"('u', 'β')",>,1,u β >,forward,u β >
+"('w', 'a')",a,1,w a a,forward,w a a
+"('w', 'a')",e,1,w a e,forward,w a e
+"('w', 'a')",o,1,w a o,forward,w a o
+"('w', 'e')",a,1,w e a,forward,w e a
+"('w', 'e')",e,1,w e e,forward,w e e
+"('w', 'e')",o,1,w e o,forward,w e o
+"('w', 'f')",>,1,w f >,forward,w f >
+"('w', 'f')",f,1,w f f,forward,w f f
+"('w', 'f')",l,1,w f l,forward,w f l
+"('w', 'f')",t,1,w f t,forward,w f t
+"('w', 'f')",β,1,w f β,forward,w f β
+"('w', 'i')",i,1,w i i,forward,w i i
+"('w', 'i')",u,1,w i u,forward,w i u
+"('w', 'k')",k,1,w k k,forward,w k k
+"('w', 'l')",>,1,w l >,forward,w l >
+"('w', 'o')",a,1,w o a,forward,w o a
+"('w', 'o')",e,1,w o e,forward,w o e
+"('w', 'o')",o,1,w o o,forward,w o o
+"('w', 't')",>,1,w t >,forward,w t >
+"('w', 't')",t,1,w t t,forward,w t t
+"('w', 'u')",i,1,w u i,forward,w u i
+"('w', 'u')",u,1,w u u,forward,w u u
+"('w', 'w')",w,1,w w w,forward,w w w
+"('w', 'β')",>,1,w β >,forward,w β >
+"('β', 'a')",a,1,β a a,forward,β a a
+"('β', 'a')",e,1,β a e,forward,β a e
+"('β', 'a')",o,1,β a o,forward,β a o
+"('β', 'f')",>,1,β f >,forward,β f >
+"('β', 'f')",f,1,β f f,forward,β f f
+"('β', 'f')",l,1,β f l,forward,β f l
+"('β', 'f')",t,1,β f t,forward,β f t
+"('β', 'f')",β,1,β f β,forward,β f β
+"('β', 'l')",>,1,β l >,forward,β l >
+"('β', 'o')",a,1,β o a,forward,β o a
+"('β', 'o')",e,1,β o e,forward,β o e
+"('β', 'o')",o,1,β o o,forward,β o o
+"('β', 't')",>,1,β t >,forward,β t >
+"('β', 't')",t,1,β t t,forward,β t t
+"('β', 'u')",i,1,β u i,forward,β u i
+"('β', 'u')",u,1,β u u,forward,β u u
+"('β', 'w')",w,1,β w w,forward,β w w
+"('β', 'β')",>,1,β β >,forward,β β >
+<,f,1,< f,forward,< f
+<,β,1,< β,forward,< β
+<<,<,1,<< <,forward,<< <
+a,a,1,a a,forward,a a
+a,e,1,a e,forward,a e
+a,o,1,a o,forward,a o
+e,a,1,e a,forward,e a
+e,e,1,e e,forward,e e
+e,o,1,e o,forward,e o
+f,>,1,f >,forward,f >
+f,f,1,f f,forward,f f
+f,l,1,f l,forward,f l
+f,t,1,f t,forward,f t
+f,β,1,f β,forward,f β
+i,i,1,i i,forward,i i
+i,u,1,i u,forward,i u
+k,k,1,k k,forward,k k
+l,>,1,l >,forward,l >
+o,a,1,o a,forward,o a
+o,e,1,o e,forward,o e
+o,o,1,o o,forward,o o
+t,>,1,t >,forward,t >
+t,t,1,t t,forward,t t
+u,i,1,u i,forward,u i
+u,u,1,u u,forward,u u
+w,w,1,w w,forward,w w
+β,>,1,β >,forward,β >
