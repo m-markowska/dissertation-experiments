@@ -1,0 +1,389 @@
+{
+  "back": {
+    "features": [
+      "back",
+      "tap"
+    ],
+    "sample_size": 64,
+    "theta": [
+      [
+        "+0"
+      ],
+      [
+        "--"
+      ],
+      [
+        "-0"
+      ],
+      [
+        "00"
+      ]
+    ],
+    "transition_count": 31,
+    "changed_transitions": [
+      {
+        "placeholder": "O12",
+        "source": [
+          "+0"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "00"
+        ]
+      },
+      {
+        "placeholder": "O18",
+        "source": [
+          "--"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "00"
+        ]
+      },
+      {
+        "placeholder": "O24",
+        "source": [
+          "-0"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "00"
+        ]
+      }
+    ],
+    "training_examples_correct": 64,
+    "training_examples_total": 64,
+    "training_passed": true
+  },
+  "front": {
+    "features": [
+      "front",
+      "tap"
+    ],
+    "sample_size": 64,
+    "theta": [
+      [
+        "+-"
+      ],
+      [
+        "+0"
+      ],
+      [
+        "-0"
+      ],
+      [
+        "00"
+      ]
+    ],
+    "transition_count": 31,
+    "changed_transitions": [
+      {
+        "placeholder": "O12",
+        "source": [
+          "+-"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "00"
+        ]
+      },
+      {
+        "placeholder": "O18",
+        "source": [
+          "+0"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "00"
+        ]
+      },
+      {
+        "placeholder": "O24",
+        "source": [
+          "-0"
+        ],
+        "input": [
+          "00"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "00"
+        ]
+      }
+    ],
+    "training_examples_correct": 64,
+    "training_examples_total": 64,
+    "training_passed": true
+  },
+  "low": {
+    "features": [
+      "low",
+      "back",
+      "tap"
+    ],
+    "sample_size": 160,
+    "theta": [
+      [
+        "++0"
+      ],
+      [
+        "-+0"
+      ],
+      [
+        "---"
+      ],
+      [
+        "--0"
+      ],
+      [
+        "-00"
+      ],
+      [
+        "000"
+      ]
+    ],
+    "transition_count": 64,
+    "changed_transitions": [
+      {
+        "placeholder": "O18",
+        "source": [
+          "++0"
+        ],
+        "input": [
+          "000"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000"
+        ]
+      },
+      {
+        "placeholder": "O27",
+        "source": [
+          "-+0"
+        ],
+        "input": [
+          "000"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000"
+        ]
+      },
+      {
+        "placeholder": "O36",
+        "source": [
+          "---"
+        ],
+        "input": [
+          "000"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000"
+        ]
+      },
+      {
+        "placeholder": "O45",
+        "source": [
+          "--0"
+        ],
+        "input": [
+          "000"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "000"
+        ]
+      }
+    ],
+    "training_examples_correct": 160,
+    "training_examples_total": 160,
+    "training_passed": true
+  },
+  "round": {
+    "features": [
+      "round",
+      "back",
+      "tap",
+      "high"
+    ],
+    "sample_size": 178,
+    "theta": [
+      [
+        "++0+"
+      ],
+      [
+        "++0-"
+      ],
+      [
+        "+-0+"
+      ],
+      [
+        "-+0+"
+      ],
+      [
+        "-+0-"
+      ],
+      [
+        "---+"
+      ],
+      [
+        "--0+"
+      ],
+      [
+        "--0-"
+      ],
+      [
+        "-00-"
+      ],
+      [
+        "000+"
+      ]
+    ],
+    "transition_count": 144,
+    "changed_transitions": [
+      {
+        "placeholder": "O26",
+        "source": [
+          "++0+"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O39",
+        "source": [
+          "++0-"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O52",
+        "source": [
+          "+-0+"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O65",
+        "source": [
+          "-+0+"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O78",
+        "source": [
+          "-+0-"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O91",
+        "source": [
+          "---+"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "+",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O104",
+        "source": [
+          "--0+"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "000+"
+        ]
+      },
+      {
+        "placeholder": "O117",
+        "source": [
+          "--0-"
+        ],
+        "input": [
+          "000+"
+        ],
+        "identity_output": "0",
+        "learned_output": "-",
+        "target": [
+          "000+"
+        ]
+      }
+    ],
+    "training_examples_correct": 178,
+    "training_examples_total": 178,
+    "training_passed": true
+  }
+}

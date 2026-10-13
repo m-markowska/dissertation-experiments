@@ -1,0 +1,10 @@
+{
+  "pairs": "pairs_features.tsv",
+  "inventory": "inventory_output.tsv",
+  "configurations": {
+    "back": ["back", "tap"],
+    "front": ["front", "tap"],
+    "low": ["low", "back", "tap"],
+    "round": ["round", "back", "tap", "high"]
+  }
+}
